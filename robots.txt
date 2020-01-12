@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /fbl.png/
+Disallow: /bl.jfif/
+Disallow: /gl.png/
+
+Sitemap: http://www.google.com/sitemap.xml
